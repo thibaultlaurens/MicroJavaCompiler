@@ -1,5 +1,4 @@
 MicroJava-Compiler
 ==================
 
-Development of a Java-Like Compiler that compiles .mj files (MicroJava) using Java. The project has been developed during one of the courses in Oxford Brookes University
-: Language Specification and Compiler Construction
+This project is a compiler for a java like language, it compiles .mj files (MicroJava) - Language Specification and Compiler Construction Lab (Oxford Brookes University - Computer Science MSc)
